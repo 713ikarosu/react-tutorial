@@ -1,0 +1,11 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/713ikarosu/react-tutorial.git",
+  "author": "soudahirokatsu",
+  "license": "MIT",
+  "devDependencies": {
+    "@nestjs/cli": "^10.1.10"
+  }
+}
